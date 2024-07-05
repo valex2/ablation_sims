@@ -3,6 +3,3 @@ Code I developed for my project with the Brain Interfacing Lab @ Stanford. Simul
 
 ## Writeup
 See [here](https://github.com/valex2/ablation_sims/blob/main/Writeup/Robustness%20of%20Balanced%20Networks%2C%20Before%20and%20After%20Neuron%20Loss.pdf) for more information. Also under "writeup" folder.
-
-## Poster
-See [here](https://github.com/valex2/ablation_sims/blob/main/Poster/Analysis%20of%20Population%20Activity%20in%20Balanced%20Spiking%20Neural%20Networks%20after%20Neuron%20Loss.pdf) -- slightly out of date
